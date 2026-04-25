@@ -1,0 +1,8 @@
+/data/data/com.termux/files/home/weirdimggen/target/debug/deps/safetensors-078a4532d618fcd9.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/slice.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/tensor.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/../README.md
+
+/data/data/com.termux/files/home/weirdimggen/target/debug/deps/libsafetensors-078a4532d618fcd9.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/slice.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/tensor.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/../README.md
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/slice.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/tensor.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/safetensors-0.4.5/src/../README.md:

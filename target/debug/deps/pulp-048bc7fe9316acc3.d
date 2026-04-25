@@ -1,0 +1,8 @@
+/data/data/com.termux/files/home/weirdimggen/target/debug/deps/pulp-048bc7fe9316acc3.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/core_arch/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/core_arch/aarch64/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/aarch64.rs
+
+/data/data/com.termux/files/home/weirdimggen/target/debug/deps/libpulp-048bc7fe9316acc3.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/core_arch/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/core_arch/aarch64/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/aarch64.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/core_arch/mod.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/core_arch/aarch64/mod.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pulp-0.18.22/src/aarch64.rs:
